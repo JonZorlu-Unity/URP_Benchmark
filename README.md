@@ -16,6 +16,10 @@ URP-10.2.2
 
 This sample game project consists of free URP example scene Assets. You may use and extend it in anyway you like. The main purpose of this repo, is to share what I know about URP SRP Batcher and to give back to the community. 
 
+## Examples
+
+![URP Benchmark with 3 materials](HowTo/URP_Bench_Example.jpg)
+
 ## License
 
 MIT License
