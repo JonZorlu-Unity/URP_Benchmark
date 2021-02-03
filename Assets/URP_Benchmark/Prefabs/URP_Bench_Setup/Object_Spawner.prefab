@@ -45,6 +45,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabsToSpawn:
   - {fileID: 6955169454836228320, guid: 454d830c12ca7274484faa00d02d85a7, type: 3}
-  - {fileID: 3408321925370005907, guid: 17ff5ea1995b9cc40be769524860f953, type: 3}
-  - {fileID: 4821732430493729392, guid: 824731f9b6fb30f42baccbb6649ebabb, type: 3}
+  - {fileID: 6955169454836228320, guid: 88a1bc4d91f0a434381cd36ba03f2bdc, type: 3}
   totalObjectsToSpawn: 100
